@@ -1,3 +1,7 @@
+# Wiebke's demo collection builder site
+
+this is a demo of the collection builder template, using the github template.
+
 # CollectionBuilder-GH
 
 A project to generate a free and simple digital collection site using [GitHub Pages](https://pages.github.com/) given:
